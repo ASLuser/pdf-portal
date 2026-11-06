@@ -1,13 +1,13 @@
 const formsData = [
-    { title: "Settling Allowance Application Form", category: "HR Retirement", description: "Application form for claiming Settling Allowance", fileUrl: "forms/Settling Allowance Form.pdf" },
+    { title: "Settling Allowance Application Form", category: "Retirement Claim", description: "Application form for claiming Settling Allowance of Coal India Employees|| ECL,BCCL,CCL etc..", fileUrl: "forms/Settling Allowance Form.pdf" },
     { title: "Earned Leave Application Form", category: "Leave Form", description: "Non Ex EL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/EL_Form.pdf" },
     { title: "Sick Leave Application Form", category: "Leave Form", description: "Non Ex SL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/SL_Form.pdf" },
     { title: "Casual Leave Application Form", category: "Leave Form", description: "Non Ex CL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/CL_Form.pdf" },
-    { title: "Name Inclusion Application Form", category: "HR", description: "Non Ex Name Inclusion Format download.", fileUrl: "forms/Name_Inclusion_Application_Format.pdf" },
-    { title: "DPC Selection Application Form", category: "HR", description: "Form to apply for selection or regularization/Promotion.", fileUrl: "forms/Selection_ApplicationFormat.pdf" },
+    { title: "Name Inclusion Application Form", category: "HR & application", description: "Non Executive's Dependents Name Inclusion Format|| ECL,CCL,BCCL,NCL and other subsidiaries.", fileUrl: "forms/Name_Inclusion_Application_Format.pdf" },
+    { title: "DPC Selection Application Form", category: "HR & application", description: "Form to apply for selection or regularization/Promotion.", fileUrl: "forms/Selection_ApplicationFormat.pdf" },
     { title: "Uniform Bill Format 2026", category: "Finance", description: "ECL Uniform Bill Submission Format.", fileUrl: "forms/UniformBill.pdf" },
-    { title: "LTC LLTC Travel Assistance Form", category: "Finance", description: "LTC LLTC Travel Assistance form for visiting Home Town/Bharat Bhraman.", fileUrl: "forms/TA_LTCForm.pdf" },
-    { title: "New Sahaj and Nomination Form", category: "CMPF", description: "Download New Sahaj and Nomination Form CMPF.", fileUrl: "forms/shaj_nomination.pdf" },
+    { title: "LTC LLTC Travel Assistance Form", category: "Finance", description: "LTC LLTC Travel Assistance form for visiting Home Town/Bharat Bhraman Coal India Employees.", fileUrl: "forms/TA_LTCForm.pdf" },
+    { title: "New Sahaj and Nomination Form", category: "CMPF", description: "Download New Sahaj and Nomination Form CMPF.", fileUrl: "forms/sahaj_nomination.pdf" },
     { title: "Pension Payment Order New Format", category: "CMPF", description: "Download PPO New Format.", fileUrl: "forms/ppo.pdf" },
     { title: "CMPF Undertaking Form", category: "CMPF", description: "Download New Undertaking Form CMPF.", fileUrl: "forms/undertaking.pdf" }
 ];
