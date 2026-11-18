@@ -3,6 +3,7 @@ const formsData = [
     { title: "Earned Leave Application Form", category: "Leave Form", description: "Non Ex EL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/EL_Form.pdf" },
     { title: "Sick Leave Application Form", category: "Leave Form", description: "Non Ex SL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/SL_Form.pdf" },
     { title: "Casual Leave Application Form", category: "Leave Form", description: "Non Ex CL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/CL_Form.pdf" },
+    { title: "New Id Card Kajora Area", category: "ID Card Format", description: "New ID Card Format for Kajora Area|| New Logo CIL.", fileUrl: "forms/New_ID_Card.pdf" },
     { title: "Name Inclusion Application Form", category: "HR & application", description: "Non Executive's Dependents Name Inclusion Format|| ECL,CCL,BCCL,NCL and other subsidiaries.", fileUrl: "forms/Name_Inclusion_Application_Format.pdf" },
     { title: "DPC Selection Application Form", category: "HR & application", description: "Form to apply for selection or regularization/Promotion.", fileUrl: "forms/Selection_ApplicationFormat.pdf" },
     { title: "Uniform Bill Format 2026", category: "Finance", description: "ECL Uniform Bill Submission Format.", fileUrl: "forms/UniformBill.pdf" },
