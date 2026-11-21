@@ -1,5 +1,5 @@
 const formsData = [
-    { title: "Settling Allowance Application Form", category: "Retirement Claim", description: "Application form for claiming Settling Allowance of Coal India Employees|| ECL,BCCL,CCL etc..", fileUrl: "forms/Settling Allowance Form.pdf" },
+    { title: "Settling Allowance Application / PLRS Claim Form", category: "Retirement Claim", description: "Application form for claiming Settling Allowance / PLRS of Coal India Employees|| ECL,BCCL,CCL etc..", fileUrl: "forms/SettlingAllowance_PLRS_Form.pdf" },
     { title: "Earned Leave Application Form", category: "Leave Form", description: "Non Ex EL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/EL_Form.pdf" },
     { title: "Sick Leave Application Form", category: "Leave Form", description: "Non Ex SL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/SL_Form.pdf" },
     { title: "Casual Leave Application Form", category: "Leave Form", description: "Non Ex CL Form for Coal India, ECL, BCCL, CCl, WCL, NCL and other subsidiaries.", fileUrl: "forms/CL_Form.pdf" },
